@@ -28,7 +28,6 @@
  */
 #include <cutils/log.h>
 #include <linux/msm_mdp.h>
-#include <string.h>
 #include "mdp_version.h"
 #include "qd_utils.h"
 
